@@ -1,0 +1,70 @@
+/*<meta sourceDocument="C:\Users\admin\Desktop\Word.doc" />*/
+
+p
+{
+	font-family: Arial;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+	font-size: 10pt;
+}
+
+ol
+{
+	font-family: Arial;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+	font-size: 10pt;
+}
+
+ul
+{
+	font-family: Arial;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+	font-size: 10pt;
+}
+
+li
+{
+	font-family: Arial;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+	font-size: 10pt;
+}
+
+td
+{
+	font-family: Arial;
+	vertical-align: top;
+}
+
+p.p
+{
+	font-family: Arial;
+	font-size: 12pt;
+}
+
+h1.Heading1
+{
+	mc-heading-level: 1;
+	font-family: Arial;
+	font-weight: normal;
+}
+
+MadCap|xref.ParaTextOnly
+{
+	mc-format: '{paratext}';
+}
+
+span.span_1
+{
+	color: #000000;
+}
+
+p.p_1
+{
+	font-family: Arial;
+	font-size: 12pt;
+	color: #000000;
+}
+

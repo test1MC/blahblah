@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:sourceDocument="C:\Users\admin\Desktop\Word.doc">
+    <head><title></title>
+        <link href="../Stylesheets/Word.css" rel="stylesheet" />
+    </head>
+    <body>
+        <div>
+            <p class="p_1">&#160;</p>
+        </div>
+        <MadCap:bodyProxy />
+        <div>
+            <p class="p_1">&#160;</p>
+        </div>
+    </body>
+</html>
